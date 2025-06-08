@@ -15,7 +15,7 @@ created_at: "2025-06-02"
 | --------------------------------- |
 | ![](/assets/08%20June/layout.png) |
 
-> The keyboard is onna have `11 macro keys (basically integrated macropad)`, `a Rotary Encoder Switch E11`, and a `0.91inch OLED Display 128x32` and is gonna use `STM32F411CEU6 Black Pill Board` as its mcu.  
+> The keyboard is gonna have `11 macro keys (basically integrated macropad)`, a `Rotary Encoder Switch E11`, and a `0.91inch OLED Display 128x32` and is gonna use `STM32F411CEU6 Black Pill Board` as its mcu.  
 
 > it was REALLY painful to find out symbol and footprint of `STM32F411CEU6 Black Pill Board`  
 
