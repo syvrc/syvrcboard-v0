@@ -1,7 +1,7 @@
 ## BOM
 | Name                                                          | Qty | Final Price - INR (USD) | Link                                                                                                       |
 | ------------------------------------------------------------- | --- | ----------------------- | ---------------------------------------------------------------------------------------------------------- |
-| STM32F411CEU6 Black Pill Board                                | 1   | 730 ($8.52)             | [amazon](https://amzn.in/d/bohWM6r)
+| Raspberry Pi Pico                                             | 1   | 459 ($5.36)             | [amazon](https://amzn.in/d/cDwAhlL)
 | Diode 1N4148 Through Hole – 100 Pieces                        | 1   | 99 ($1.16)              | [amazon](https://amzn.in/d/j3eLvoh)                                                                          |
 | EC11 Rotary Encoder – 2 Pieces                                | 1   | 178 ($2.08)             | [amazon](https://amzn.in/d/hVRxzij)                                                                          |
 | 0.91" OLED SSD1306                                            | 1   | 166 ($1.94)             | [amazon](https://amzn.in/d/3cISYEV)                                                                          |
@@ -11,7 +11,7 @@
 | M3 x 20mm Bolt – 15 Pieces                                    | 1   | 149 ($1.74)             | [amazon](https://amzn.in/d/8GRQWAB)                                                                          |
 | M3 Nuts – 12 Pieces                                           | 1   | 99 ($1.16)              | [amazon](https://amzn.in/d/7UQtsm8)                                                                          |
 | M3 x 5mm Heatset Insert – 25 Pieces                           | 1   | 179 ($2.09)             | [amazon](https://amzn.in/d/ixybuAc)                                                                          |
-|PCB - (Black Color)                                            | NA  | NA                      | NA |
+| PCB - (Black Color)                                            | NA  | NA                      | NA |
 
 <!--
 | Top Case - 1 (Black "./production/TOP1.step")                 | 1   | Print Legion            |
