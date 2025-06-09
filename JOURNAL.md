@@ -45,6 +45,17 @@ created_at: "2025-06-02"
 
 > Spent hell lotta time making the BOM and finalizing the MCU
 
+> to do list for tomorrow
+[ ] complete the schematic  
+  [ ] add a GPIO expander to the rpi pico  
+  [ ] wire it all  
+  [ ] add and setup leds  
+[ ] complete the pcb  
+  [ ] layout it  
+  [ ] add some cool custom silkscreen art  
+[ ] add the gpio expander used in the BOM  
+
 **Time Spent: 7hrs**
+
 
 <!-- ## 10th June: -->
