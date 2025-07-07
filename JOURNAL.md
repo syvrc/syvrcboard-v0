@@ -5,7 +5,7 @@ description: "A Custom TKL Mechanical Keyboard"
 created_at: "2025-06-02"
 ---
 
-**Total time spent so far: 18hrs**
+**Total time spent so far: 29hrs**
 
 ## First week of June: Research
 > Watched hell lotta youtube videos to get a basic idea and all of what i wanted to make and how i wanted my keyboard to look like  
@@ -58,4 +58,19 @@ created_at: "2025-06-02"
 **Time Spent: 7hrs**
 
 
-<!-- ## 10th June: -->
+## 06th and 07th July: major updates
+> oh boy oh boy oh boy finally after like a month or sum of break im back!!!!!!!!!! i had my exams going and i got distracted by some other things, anw but when my pcb for `#hackpad` arrived it looked so cool that i got the feeling to continue the keeb again!!  
+> we are back off VERY strong!! changes like: a whole layout change, sch done, pcb done and much more and feature changes has been made
+
+| Final Layout                      |
+| --------------------------------- |
+| ![](/assets/08%20July/layout.png) |
+
+> i originally thought of trying the double row method mentioned in the guide but it didnt seemed right for just one being short on one gpio pin and so i came up with this after like 2 or 3 layout variations  
+> after brainstorming a bit in the slack with other ppl, i came up with this layout because i didnt wanted to use the gpio pins expanders as its too complex for me to understand  
+> the thing(s) left now is the silk screen art and designing a case which should be done in a day or two (well hopefully)  
+
+**Time Spent: 11hrs**
+
+
+<!-- ## 08th July: -->
