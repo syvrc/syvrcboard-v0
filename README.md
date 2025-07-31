@@ -1,19 +1,21 @@
 ## syvrcboard v0 (info / descrip)
-> `syvrcboard-v0` was and is my very first attempt to make a fully custom mechanical keyboard from scratch although before making this i have made a [macropad](https://github.com/syvrc/syvrcpad) before. The keyboard is a `Demon Slayer` themed Custom TKL Mechanical Keyboard with 11 Macro Keys, a Rotary Encoder Switch powered by Raspberry Pi Pico Board
+> `syvrcboard-v0` was and is my very first attempt on making a custom mechanical keyboard from scratch although before making this i had made a [macropad](https://github.com/syvrc/syvrcpad) before
 
-light bg                                | dark bg
-:--------------------------------------:|:------------------------------------------------------:
-![](/assets/final/defualt/default.PNG) | ![](/assets/final/defualt/defualt%20dark%20smooth.PNG)
+| light bg                               |
+| -------------------------------------- |
+| ![](/assets/final/defualt/default.PNG) |
+
+| dark bg                                                |
+| ------------------------------------------------------ |
+| ![](/assets/final/defualt/defualt%20dark%20smooth.PNG) |
+
+> `syvrcboard v0` is a custom TKL Mechanical Keyboard with 10 Macro Keys, a Rotary Encoder Switch and is powered by Raspberry Pi Pico Board, the keyboard's silkscreen art is solely `demon slayer` based
 
 
 ## schematic
-| matrix                            |
-| --------------------------------- |
-| ![](/assets/final/sch/matrix.JPG) |
-
-| dev board (rpi pico)                  |
-| ------------------------------------- |
-| ![](/assets/final/sch/rpi%20pico.JPG) |
+| dev board (rpi pico)                | switch matrix
+:------------------------------------:|:---------------------------------:
+![](/assets/final/sch/rpi%20pico.JPG) | ![](/assets/final/sch/matrix.JPG)
 
 
 ## pcb
@@ -43,8 +45,8 @@ light bg                                | dark bg
 | -------------------------------- |
 | ![](/assets/final/case/case.PNG) |
 
-> thickness of plate: 
-> thickness of bottom: 
+> thickness of plate:  
+> thickness of bottom:  
 
 
 ## renders
@@ -56,8 +58,8 @@ light bg                                | dark bg
 | ------------------------------------------------- |
 | ![](/assets/final/defualt/default%20overview.PNG) |
 
-lined (light bg)                                              | lined (dark bg)
-:------------------------------------------------------------:|:-----------------------------------------------------------:
+lined (light bg)                                             | lined (dark bg)
+:-----------------------------------------------------------:|:-----------------------------------------------------------:
 ![](/assets/final/defualt/lined/default%20light%20lined.PNG) | ![](/assets/final/defualt/lined/defualt%20dark%20lined.PNG)
 
 | hand pov                                   |
@@ -70,9 +72,9 @@ lined (light bg)                                              | lined (dark bg)
 
 
 ## mounting method
-light bg                                                           | dark bg
-:-----------------------------------------------------------------:|:----------------------------------------------------------------:
-! [](/assets/final/mounting%20method/light%20bg/lined%20edges.PNG) | ![](/assets/final/mounting%20method/dark%20bg/lined%20edges.PNG)
+light bg                                                          | dark bg
+:----------------------------------------------------------------:|:----------------------------------------------------------------:
+![](/assets/final/mounting%20method/light%20bg/lined%20edges.PNG) | ![](/assets/final/mounting%20method/dark%20bg/lined%20edges.PNG)
 
 
 <!-- ## layout used
