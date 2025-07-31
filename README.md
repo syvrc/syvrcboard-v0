@@ -1,5 +1,5 @@
-## syvrcboard v0 (info / descrip)
-> `syvrcboard-v0` was and is my very first attempt on making a custom mechanical keyboard from scratch although before making this i had made a [macropad](https://github.com/syvrc/syvrcpad) before
+## syvrcboard v0
+> `syvrcboard v0` was and is my very first attempt on making a custom mechanical keyboard from scratch although before making this i had made a [macropad](https://github.com/syvrc/syvrcpad) before
 
 | light bg                               |
 | -------------------------------------- |
@@ -9,7 +9,7 @@
 | ------------------------------------------------------ |
 | ![](/assets/final/defualt/defualt%20dark%20smooth.PNG) |
 
-> `syvrcboard v0` is a custom TKL Mechanical Keyboard with 10 Macro Keys, a Rotary Encoder Switch and is powered by Raspberry Pi Pico Board, the keyboard's silkscreen art is solely `demon slayer` based
+> `syvrcboard v0` is a custom TKL Mechanical Keyboard with `10 Macro Keys`, a `Rotary Encoder Switch` and is powered by `Raspberry Pi Pico` board, the keyboard's silkscreen art is solely `demon slayer` based
 
 
 ## schematic
@@ -29,8 +29,8 @@
 
 
 ## case
-| layers                                     | layers
-:-------------------------------------------:|:------------------------------------------:|
+| layers (diagonal view)                    | layers (right view)
+:------------------------------------------:|:------------------------------------------:|
 ![](/assets/final/case/layers/IMG_0712.PNG) | ![](/assets/final/case/layers/IMG_0713.PNG)
 
 | plate                             |
@@ -45,8 +45,9 @@
 | -------------------------------- |
 | ![](/assets/final/case/case.PNG) |
 
-> thickness of plate:  
-> thickness of bottom:  
+> thickness of plate:  5mm  
+> thickness of base:  12mm  
+> thickness of the case: 17mm  
 
 
 ## renders
@@ -54,37 +55,39 @@
 | ------------------------------- |
 | ![](/assets/final/case/pcb.PNG) |
 
-| angle view                                        |
-| ------------------------------------------------- |
-| ![](/assets/final/defualt/default%20overview.PNG) |
-
 lined (light bg)                                             | lined (dark bg)
 :-----------------------------------------------------------:|:-----------------------------------------------------------:
 ![](/assets/final/defualt/lined/default%20light%20lined.PNG) | ![](/assets/final/defualt/lined/defualt%20dark%20lined.PNG)
 
-| hand pov                                   |
-| ------------------------------------------ |
-| ![](/assets/final/defualt/hand%20view.PNG) |
+| angle view                                        |
+| ------------------------------------------------- |
+| ![](/assets/final/defualt/default%20overview.PNG) |
 
 | side view                                  |
 | ------------------------------------------ |
 | ![](/assets/final/defualt/side%20view.PNG) |
 
 
-## mounting method
-light bg                                                          | dark bg
-:----------------------------------------------------------------:|:----------------------------------------------------------------:
-![](/assets/final/mounting%20method/light%20bg/lined%20edges.PNG) | ![](/assets/final/mounting%20method/dark%20bg/lined%20edges.PNG)
+## mounting
+| light bg                                                          |
+| ----------------------------------------------------------------- |
+| ![](/assets/final/mounting%20method/light%20bg/lined%20edges.PNG) |
+
+| dark bg                                                          |
+| ---------------------------------------------------------------- |
+| ![](/assets/final/mounting%20method/dark%20bg/lined%20edges.PNG) |
+
+> the mounting method used for this keyboard is generally called `sandiwich mount`, its the most beginner friendly mounting method if you are making the keyboard for the first time and dont have much experince wih 3d modelling, however, some people find many other mounting method beginner friendly in place of the sandwich mount
 
 
-<!-- ## layout used
-unwired                           | wired
-:--------------------------------:|:---------------------------------:
-![]() | ![]() -->
+## layout
+| unwired                              |
+| ------------------------------------ |
+| ![](/assets/final/layout/layout.png) |
 
-
-## closing
-<!-- - [] also update journal.md -->
+| wired                                        |
+| -------------------------------------------- |
+| ![](/assets/final/layout/layout%20wired.png) |
 
 
 ## BOM

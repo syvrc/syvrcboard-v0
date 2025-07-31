@@ -5,7 +5,7 @@ description: "A Custom TKL Mechanical Keyboard"
 created_at: "2025-06-02"
 ---
 
-**Total time spent so far: 29hrs**
+**Total time spent so far: 45hrs**
 
 ## First week of June: Research
 > Watched hell lotta youtube videos to get a basic idea and all of what i wanted to make and how i wanted my keyboard to look like  
@@ -73,4 +73,13 @@ created_at: "2025-06-02"
 **Time Spent: 11hrs**
 
 
-<!-- ## 08th July: -->
+## 30th and 30st July: last part
+> after procrastinating for a whole month i finally decided to get started and done with the 3d design of the case, designing took around like 10 to 12hrs and it was really hectic as i dont have much exp with 3d designing but still i was able to make a good case for my keeb also the rendering to take photos was so damn time consuimg cuz of like models of 80 keys in the file along with other things like the pcb model, rpi model the app kept on crashing and the rage bait was like 100000/10 fs. stil managed to get good render photos for the readme.md after a very long work to get the app working
+
+| case                             |
+| -------------------------------- |
+| ![](/assets/final/case/case.PNG) |
+> *there are more renders of the case in the [README.md](/README.md)
+
+> i also updated the whole bom with the revsions and made the README.md file
+**Time Spent: 16hrs**
