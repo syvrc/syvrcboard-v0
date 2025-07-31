@@ -1,3 +1,90 @@
+## syvrcboard v0 (info / descrip)
+> `syvrcboard-v0` was and is my very first attempt to make a fully custom mechanical keyboard from scratch although before making this i have made a [macropad](https://github.com/syvrc/syvrcpad) before. The keyboard is a `Demon Slayer` themed Custom TKL Mechanical Keyboard with 11 Macro Keys, a Rotary Encoder Switch powered by Raspberry Pi Pico Board
+
+light bg                                | dark bg
+:--------------------------------------:|:------------------------------------------------------:
+! [](/assets/final/defualt/default.PNG) | ![](/assets/final/defualt/defualt%20dark%20smooth.PNG)
+
+
+## schematic
+| matrix                            |
+| --------------------------------- |
+| ![](/assets/final/sch/matrix.JPG) |
+
+| dev board (rpi pico)                  |
+| ------------------------------------- |
+| ![](/assets/final/sch/rpi%20pico.JPG) |
+
+
+## pcb
+| front                            |
+| -------------------------------- |
+| ![](/assets/final/pcb/front.JPG) |
+
+| back                            |
+| ------------------------------- |
+| ![](/assets/final/pcb/back.JPG) |
+
+
+## case
+| layers                                                                                  |
+:-------------------------------------------:|:------------------------------------------:|
+! [](/assets/final/case/layers/IMG_0712.PNG) | ![](/assets/final/case/layers/IMG_0713.PNG)
+
+| plate                             |
+| --------------------------------- |
+| ![](/assets/final/case/plate.PNG) |
+
+| base                             |
+| -------------------------------- |
+| ![](/assets/final/case/base.PNG) |
+
+| assembled case                   |
+| -------------------------------- |
+| ![](/assets/final/case/case.PNG) |
+
+> thickness of plate: 
+> thickness of bottom: 
+
+
+## renders
+| 3d pcb                          |
+| ------------------------------- |
+| ![](/assets/final/case/pcb.PNG) |
+
+| angle view                                        |
+| ------------------------------------------------- |
+| ![](/assets/final/defualt/default%20overview.PNG) |
+
+lined (light bg)                                              | lined (dark bg)
+:------------------------------------------------------------:|:-----------------------------------------------------------:
+! [](/assets/final/defualt/lined/default%20light%20lined.PNG) | ![](/assets/final/defualt/lined/defualt%20dark%20lined.PNG)
+
+| hand pov                                   |
+| ------------------------------------------ |
+| ![](/assets/final/defualt/hand%20view.PNG) |
+
+| side view                                  |
+| ------------------------------------------ |
+| ![](/assets/final/defualt/side%20view.PNG) |
+
+
+## mounting method
+light bg                                                           | dark bg
+:-----------------------------------------------------------------:|:----------------------------------------------------------------:
+! [](/assets/final/mounting%20method/light%20bg/lined%20edges.PNG) | ![](/assets/final/mounting%20method/dark%20bg/lined%20edges.PNG)
+
+
+## layout used
+unwired                           | wired
+:--------------------------------:|:---------------------------------:
+! []() | ![]()
+
+
+## closing
+<!-- - [] also update journal.md -->
+
+
 ## BOM
 | Name                                                          | Qty | Final Price - INR (USD) | Link                                                                                   |
 | ------------------------------------------------------------- | --- | ----------------------- | ---------------------------------------------------------------------------------------|
@@ -11,7 +98,7 @@
 | M3 x 20mm Bolt – 15 Pieces                                    | 1   | 149 ($1.74)             | [amazon](https://amzn.in/d/8GRQWAB)                                                    |
 | M3 Nuts – 12 Pieces                                           | 1   | 99 ($1.16)              | [amazon](https://amzn.in/d/7UQtsm8)                                                    |
 | M3 x 5mm Heatset Insert – 25 Pieces                           | 1   | 179 ($2.09)             | [amazon](https://amzn.in/d/ixybuAc)                                                    |
-| PCB - (Black Color)                                            | NA  | NA                      | NA |
+| PCB - (Black Color)                                           | NA  | NA                      | NA |
 
 <!--
 | Top Case - 1 (Black "./production/TOP1.step")                 | 1   | Print Legion            |
@@ -21,3 +108,9 @@
 | Bottom Case - 1 (Black "./production/BOTTOM1.step")           | 1   | Print Legion            |
 | Bottom Case - 2 (Black "./production/BOTTOM2.step")           | 1   | Print Legion            |
 | Rotary Encoder Knob                                           | 1   | Print Legion            |-->
+
+
+## total pricing
+
+
+## notes
