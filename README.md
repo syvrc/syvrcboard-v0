@@ -16,7 +16,7 @@ Features:
 - a rotary encoder switch for volume , brightness etc
 - [custom TKL layout w/ 11 macrokeys](#layout)
 - demon slayer themed pcb silkscreen art!!
-- work with Raspberry Pi Pico
+- works with Raspberry Pi Pico
 - KMK firmware (subject to change)
 - sandwich mount
 
@@ -54,9 +54,10 @@ Features:
 | -------------------------------- |
 | ![](/assets/final/case/case.PNG) |
 
-> thickness of plate:  5mm  
-> thickness of base:  12mm  
-> thickness of the case: 17mm  
+| component           | thickness             |
+| ------------------- | --------------------- |
+| plate               | 5mm                   |
+| base                | 12mm                  |
 
 
 ## renders
@@ -116,12 +117,11 @@ lined (light bg)                                             | lined (dark bg)
 | EC11 Rotary Encoder                                           | 1   | NA                      | I have it                                                                                                         |
 | Surplex Sodering Iron Kit                                     | 1   | 1449 ($16.53)           | [amazon](https://amzn.in/d/b7gBDRM)                                                                                                        |
 
-| total | 6813 ($77.84) |
+Total cost of the build so far: 6813 INR | ($77.84)
 
 
 ## notes
 the total amount is coming out to be `6813 ($77.84)` excluding the cost of `PCB` and `printing legion`
 
 ---
-> if you wanna read more, checkout [JOURNAL.md](/JOURNAL.md)  
 > ~~hit the like button~~ star the repo if you like my work!! 🚶‍♂️  
