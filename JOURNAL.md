@@ -6,6 +6,8 @@ created_at: "2025-06-02"
 ---
 
 **Total time spent so far: 45hrs**
+> note: the information in this file is not final and binding as this file is ment to be how I ended up with the final product, checkout [README.me](/README.md) to know the correct information.  
+
 
 ## First week of June: Research
 > Watched hell lotta youtube videos to get a basic idea and all of what i wanted to make and how i wanted my keyboard to look like  
@@ -82,4 +84,5 @@ created_at: "2025-06-02"
 > *there are more renders of the case in the [README.md](/README.md)
 
 > i also updated the whole bom with the revsions and made the README.md file
+
 **Time Spent: 16hrs**
