@@ -3,7 +3,7 @@
 
 light bg                                | dark bg
 :--------------------------------------:|:------------------------------------------------------:
-! [](/assets/final/defualt/default.PNG) | ![](/assets/final/defualt/defualt%20dark%20smooth.PNG)
+![](/assets/final/defualt/default.PNG) | ![](/assets/final/defualt/defualt%20dark%20smooth.PNG)
 
 
 ## schematic
@@ -27,9 +27,9 @@ light bg                                | dark bg
 
 
 ## case
-| layers                                                                                  |
+| layers                                     | layers
 :-------------------------------------------:|:------------------------------------------:|
-! [](/assets/final/case/layers/IMG_0712.PNG) | ![](/assets/final/case/layers/IMG_0713.PNG)
+![](/assets/final/case/layers/IMG_0712.PNG) | ![](/assets/final/case/layers/IMG_0713.PNG)
 
 | plate                             |
 | --------------------------------- |
@@ -58,7 +58,7 @@ light bg                                | dark bg
 
 lined (light bg)                                              | lined (dark bg)
 :------------------------------------------------------------:|:-----------------------------------------------------------:
-! [](/assets/final/defualt/lined/default%20light%20lined.PNG) | ![](/assets/final/defualt/lined/defualt%20dark%20lined.PNG)
+![](/assets/final/defualt/lined/default%20light%20lined.PNG) | ![](/assets/final/defualt/lined/defualt%20dark%20lined.PNG)
 
 | hand pov                                   |
 | ------------------------------------------ |
@@ -75,10 +75,10 @@ light bg                                                           | dark bg
 ! [](/assets/final/mounting%20method/light%20bg/lined%20edges.PNG) | ![](/assets/final/mounting%20method/dark%20bg/lined%20edges.PNG)
 
 
-## layout used
+<!-- ## layout used
 unwired                           | wired
 :--------------------------------:|:---------------------------------:
-! []() | ![]()
+![]() | ![]() -->
 
 
 ## closing
